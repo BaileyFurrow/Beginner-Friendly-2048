@@ -1,0 +1,15 @@
+#gameCanvas {
+    border: 1px solid black;
+    fill: #555555;
+}
+
+.tile {
+    fill: #CCCCCC;
+    stroke-width: 2px;
+    stroke: black;
+}
+
+.text {
+    fill: white;
+    font-size: 50px;
+}
